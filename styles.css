@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: pink;
+}
+.contenedor{
+    margin:auto;
+    margin-top: 100px;
+}
+h1{
+    font-family: 'Indie Flower', cursive;
+    color: white;
+}
+h2{
+    margin-left: 41%;
+    font-family: 'Indie Flower', cursive;
+    font-size:40px;
+    color: black;
+}
+#ultima{
+    margin-left: 22%;
+}
+h2:hover{
+    color: white;
+}
